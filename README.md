@@ -6,5 +6,5 @@ Inverted index in python
 2. ***index.py*** is written without the use of functions
 3. There is also one text file of **Stopwords** for both type of collections. 
 
-## For english inverted
+## For english inverted index
  I used the Porter2Stemmer for stemming.
